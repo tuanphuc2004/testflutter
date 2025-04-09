@@ -118,6 +118,35 @@
       "lastLogin": "2025-04-05T10:30:42.000Z",
       "createdAt": "2023-08-10T00:00:00.000Z"
     }
-  ]
+  ],
+  "notes": [
+              {
+                "title": "Lập trình Mobile",
+                "content": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
+                "priority": "3",
+                "createdAt": "2025-04-08T18:30:00.000Z",
+                "modifiedAt": "2025-04-08T18:30:00.000Z",
+                "tags": "Flutter,Mobile,Dart",
+                "color": "#faebd7"
+              },
+              {
+                "title": "Toi ten la",
+                "content": "Hoàng Phuc",
+                "priority": "1",
+                "createdAt": "2025-04-08T18:30:00.000Z",
+                "modifiedAt": "2025-04-08T18:30:00.000Z",
+                "tags": "22DTH1",
+                "color": "#faebd7"
+              },
+              {
+                "title": "Thông tin thời tiết",
+                "content": "hnay met vl",
+                "priority": "2",
+                "createdAt": "2025-04-08T18:30:00.000Z",
+                "modifiedAt": "2025-04-08T18:30:00.000Z",
+                "tags": "Weather",
+                "color": "#faebd7"
+              }
+          ]
   
 }
